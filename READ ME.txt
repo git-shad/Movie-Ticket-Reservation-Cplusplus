@@ -1,5 +1,0 @@
-Log in:
-
-Username:user
-password:pass
-
