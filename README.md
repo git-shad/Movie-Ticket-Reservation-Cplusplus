@@ -1,1 +1,7 @@
-# Movie-Ticket-Reservation-C-
+# Movie-Ticket-Reservation-Cplusplus
+
+
+Log in:
+
+Username:user
+password:pass
