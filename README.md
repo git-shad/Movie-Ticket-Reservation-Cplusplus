@@ -1,7 +1,7 @@
 # Movie-Ticket-Reservation-Cplusplus
 
 
-Log in:
+Log in Access
 
-Username:user
-password:pass
+Username: user
+password: pass
